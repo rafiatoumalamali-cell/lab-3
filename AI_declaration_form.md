@@ -8,7 +8,7 @@
 
 **Student ID:** 30782027
 
-**GitHub Repository Link:** https://github.com/rafiatoumalamali-cell/Rafiatou_Malam_ali_AI_lab1.git
+**GitHub Repository Link:** https://github.com/rafiatoumalamali-cell/lab-3.git
 
 **Date Submitted:** 28/07/2026
 
