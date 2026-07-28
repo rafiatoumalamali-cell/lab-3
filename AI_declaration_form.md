@@ -38,8 +38,8 @@
 |---------------|-----------|-----------|
 | AI-generated draft | Yes | AI_USE_DECLARATION.md |
 | Prompt history | Yes | AI_USE_DECLARATION.md |
-| Screenshot of AI interaction | no |  |
-| Exported AI conversation | Yes | (see attached screenshots) |
+| Screenshot of AI interaction | no |N/A  |
+| Exported AI conversation | NO | N/A |
 | AI-generated code snippet | No | N/A |
 | Revised version showing student input | Yes | AI_USE_DECLARATION.md |
 
